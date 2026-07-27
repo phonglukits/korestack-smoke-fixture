@@ -1,0 +1,1 @@
+# korestack-smoke-fixture
