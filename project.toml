@@ -12,3 +12,6 @@ value = "nginx"
 [[io.buildpacks.build.env]]
 name = "BP_WEB_SERVER_ROOT"
 value = "out"
+[[io.buildpacks.build.env]]
+name = "NODE_ENV"
+value = "production"
